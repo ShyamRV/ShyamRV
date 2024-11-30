@@ -37,6 +37,8 @@ Right now, I’m:
 Feel free to reach out if you want to discuss anything tech, AI, or robotics-related!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamji-pandey)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShyamRV)  
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Shyam25351)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shyam_211_/) 
 📧 **Email:** shyamjipandeyrv@gmail.com  
 
 ---
