@@ -28,8 +28,8 @@ Right now, I’m:
 
 ### 🧠 **Skills I’m Loving Right Now:**  
 - **Languages**: Python, C, Java  
-- **Tech**: Machine Learning, Deep Learning, **TensorFlow**, **PyTorch**, CNN, RNN, **NumPy**, **Pandas**, **OpenCV**  
-- **Robotics**: Arduino, IoT, AI-integrated systems  
+- **Tech**: Machine Learning, Deep Learning, **LLM**, **TensorFlow**, **PyTorch**, CNN, RNN, **NumPy**, **Pandas**, **OpenCV**  
+- **Robotics**: Raspberry pi, Arduino, IoT, AI-integrated systems  
 
 ---
 
