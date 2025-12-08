@@ -1,54 +1,195 @@
-# Hello, I'm **Shyamji Pandey** 👋  
-### 🚀 Aspiring Researcher | AI & Deep Learning Enthusiast | Robotics Innovator  
+# 👋 **Shyamji Pandey — AI/ML Engineer | Robotics Researcher | Generative AI Developer**
 
-I’m a **B.Tech student in AI & ML** at **Amity University, Bengaluru**, with a deep love for transforming visionary ideas into impactful technologies. Whether it’s **Deep Learning**, **Robotics**, or **AI**-driven solutions, I am passionate about pushing the boundaries of what’s possible. My mission? To **build an empire** that will shape the future of tech. 🚀
+Welcome! I’m **Shyam**, an engineer driven by a mission to build intelligent systems that shape the future — from **autonomous UAVs**, **humanoid robots**, and **SLM-powered robotic arms**, all the way to **AI-driven music generation engines**.
 
----
+I love merging *deep learning*, *robotics*, and *creative engineering* to turn complex ideas into deployed, real-world systems.
 
-### 🌱 **What Am I Up To?**  
-Right now, I’m:  
-- 💻 **Collaborating on a Government-funded Research Project** focused on **Deep Learning**
-- 🌍 **Leading the Google Developer Groups (GDG) On Campus** at Amity University, helping to build a strong community of tech enthusiasts  
-- 🤖 **Building AI-driven robots** to help automate tasks and improve user experiences, including a **Humanoid Receptionist Robot**  
+Here, you’ll find my research, projects, open-source contributions, and everything I’m building on my way to creating a global tech empire.
 
 ---
 
-### 🔥 **Key Projects:**  
-- **Humanoid Receptionist Robot**: Imagine a robot that can handle reception duties with ease! My project combines **AI**, **speech recognition**, and **object detection** to automate the receptionist experience.  
-  [**Check it out here**](https://www.linkedin.com/posts/shyamji-pandey_amityuniversity-iitpatna-hackingly-activity-7212805705211265024-kElM?utm_source=share&utm_medium=member_desktop)
+## 🚀 **About Me**
+
+I am an **AI/ML Engineer** with 2+ years of hands-on experience designing and deploying intelligent systems.
+My work spans across:
+
+* Deep Learning & Computer Vision
+* Robotics & Autonomous Systems
+* Graph Neural Networks
+* Generative AI & SLM-based control
+* Cloud Deployment (AWS & GCP)
+
+I enjoy tackling problems where **algorithms meet reality** — UAV vision, human–robot interaction, and high-precision robotic manipulation.
+
+Currently exploring roles and research opportunities in **Singapore**, especially in AI, robotics, and applied deep learning.
 
 ---
 
-### 💥 **Achievements & Recognition:**  
-- 🥈 **1st Runner-Up** – Internal **Smart India Hackathon 2024**  
-- 🏅 **4th Place** – **Nirmaan 2024 Hackathon**, Amity University Mumbai  
-- 🏅 **4th Place** – **Hackmatrix Online Hackathon**, IIT Patna  
+## 🧠 **Technical Expertise**
+
+**Languages**
+
+* Python (Advanced), C/C++, Java
+
+**AI/ML & Deep Learning**
+
+* TensorFlow, PyTorch, Keras, Scikit-learn
+* CNNs, RNNs, LSTMs, GNNs (GAT, GCN)
+* YOLO, OpenCV, LLMs & SLMs
+
+**Robotics**
+
+* ROS
+* Motion control & trajectory planning
+* Sensor integration
+* Real-time vision systems
+
+**Cloud & DevOps**
+
+* AWS, GCP
+* Docker
+* REST APIs
+* Linux/Unix
+
+**Core CS Expertise**
+
+* Data Structures, Algorithms
+* DBMS
+* Operating Systems
+* Cryptography & Network Security
 
 ---
 
-### 🧠 **Skills I’m Loving Right Now:**  
-- **Languages**: Python, C, Java  
-- **Tech**: Machine Learning, Deep Learning, **LLM**, **TensorFlow**, **PyTorch**, CNN, RNN, **NumPy**, **Pandas**, **OpenCV**  
-- **Robotics**: Raspberry pi, Arduino, IoT, AI-integrated systems  
+## 🛠️ **Featured Projects**
+
+### **🦾 NEO PRIME – Neural Robotic Intelligence System (SLM-Powered Robotic Arm)**
+
+A small language model–controlled robotic arm achieving **0.5mm precision**, adaptive motion planning, and real-time sensor fusion.
+
+* 95% success in complex pick-and-place tasks
+* Supports proactive decision-making
+* Computer vision + trajectory control
+* **Tech:** TensorFlow, Python, ROS, YOLO, Raspberry Pi
 
 ---
 
-### 🌍 **Let’s Connect!**  
-Feel free to reach out if you want to discuss anything tech, AI, or robotics-related!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamji-pandey)  
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Shyam25351)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shyam_211_/)  
-### Portfolio: **https://shyamjipandey.vercel.app/**
+### **🤖 Humanoid Receptionist Robot**
 
-📧 **Email:** shyamjipandeyrv@gmail.com  
+An autonomous humanoid deployed at Amity University Bangalore to handle front-desk operations.
+
+* 90% accurate speech recognition
+* 98% accurate facial detection
+* LLM-based conversational interface
+* Speech + vision + interaction pipeline
+* **Tech:** Python, PyTorch, OpenCV, GPT API
 
 ---
 
-### 🔮 **On the Horizon:**  
-I’m constantly exploring, learning, and experimenting with new technologies. Stay tuned for **AI-powered innovations**, **next-gen robotics**, and **machine learning breakthroughs** as I continue my journey in the world of tech!  
+### **🎵 Talonix – AI Music Generation Engine**
 
-✨ **"Building the future with innovation, one project at a time!"**  
-<!---
-ShyamRV/ShyamRV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A generative music engine built using algorithmic composition and DSP.
+Built for producing copyright-free commercial audio.
+
+* Multi-instrument & multi-style generation
+* Customizable tempo, scale, and structure
+* **Tech:** Python, NumPy, DSP algorithms
+
+---
+
+### **🧬 Breast Cancer Classification System**
+
+ML classifier achieving **96% accuracy** on malignant/benign detection.
+
+* Feature engineering & hyperparameter tuning
+* ROC, precision-recall, confusion matrix reporting
+* **GitHub:** github.com/ShyamRV/Breast-Cancer-Classification-using-KNN
+* **Tech:** Scikit-learn, Python
+
+---
+
+## 🔬 **Research Experience**
+
+### **Deep Learning Researcher (UAV Vision Systems)**
+
+Amity University Bengaluru
+
+* Designed CNN architectures for UAV-based real-time object detection
+* Achieved stable 30+ FPS video processing
+* Improved accuracy by 25% using augmentation & transfer learning
+* Co-authoring research papers for CV conferences
+
+### **Graph Neural Networks Researcher**
+
+* Working on GCN/GAT for link prediction
+* Applied in biomedical graphs, social networks, recommendation systems
+* Contributing to upcoming international journal submissions
+
+---
+
+## 🌍 **Leadership & Community Work**
+
+### **HashiCorp User Group Organizer — Bengaluru**
+
+* Leading a community of 500+ engineers
+* Organizing cloud & DevOps workshops
+* 60% QoQ community growth
+
+### **Google Student Ambassador (Gemini AI)**
+
+* Conducted 8+ GCP & AI workshops
+* Trained 500+ students on GenAI tools
+
+### **GDG On Campus Lead**
+
+* Organized 15+ events
+* Increased AI/ML community engagement by 40%
+
+### **Open Source Contributor — GSSoC 2025**
+
+* Top performer among 5,000+ contributors
+* Contributing to global AI/ML repositories
+
+---
+
+## 🏆 **Achievements**
+
+* **3rd Place – Hackmatrix National Hackathon (IIT Patna)**
+* **1st Runner-up – Smart India Hackathon 2024**
+* **4th Place – Nirmaan Hackathon (Amity University Mumbai)**
+* **Top Contributor – GirlScript Summer of Code 2025**
+
+---
+
+## 📜 **Certifications**
+
+* Google GenAI Study Jams
+* Google AI Essentials
+* Build With AI Workshop (GDG)
+* Global AI/ML Conference Participation
+
+---
+
+## 🔭 **Research Interests**
+
+* Computer Vision
+* Graph Neural Networks
+* Edge AI & Robotics
+* Generative AI (Music, Language & Video)
+
+---
+
+## 🌐 **Connect With Me**
+
+* **Email:** [shyamjipandeyrv@gmail.com](mailto:shyamjipandeyrv@gmail.com)
+* **LinkedIn:** [https://linkedin.com/in/shyamji-pandey](https://linkedin.com/in/shyamji-pandey)
+* **GitHub:** [https://github.com/ShyamRV](https://github.com/ShyamRV)
+* **HackerRank:** [https://hackerrank.com/profile/shyamjipandey211](https://hackerrank.com/profile/shyamjipandey211)
+* **Portfolio:** [https://shyamjipandey.vercel.app](https://shyamjipandey.vercel.app)
+
+---
+
+## ⭐ **Support My Projects**
+
+If you find my work useful or inspiring, consider leaving a ⭐ on the repositories — it motivates me to build even more ambitious things.
+
+---
