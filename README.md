@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="avatar_circle.svg" width="130" height="130"/>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=SHYAMJI+PANDEY" alt="Name"/>
@@ -18,7 +16,7 @@
 </div>
 
 ---
-
+<div align="center">
 <table>
 <tr>
 <td width="58%" valign="top">
@@ -84,7 +82,7 @@ currently_active:
 </td>
 </tr>
 </table>
-
+</div align="center">
 ---
 
 ## `// FLAGSHIP PROJECT`
@@ -111,7 +109,7 @@ currently_active:
 > ### 🏦 [banking-voice-ai](https://github.com/ShyamRV/banking-voice-ai) · Replacing human call executives with autonomous AI agents
 
 **Funded by Fetch.ai.** Enterprise-grade multi-agent platform for banking, healthcare, insurance, and telecom — autonomous, 24/7, 10+ Indian languages.
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -180,7 +178,7 @@ currently_active:
 </td>
 </tr>
 </table>
-
+</div align="center">
 `Fetch.ai uAgents` `ASI:ONE` `OpenAI Whisper` `Amazon Polly` `Twilio` `FastAPI` `Python`
 
 ---
