@@ -4,10 +4,9 @@
 
 <br/><br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=SHYAMJI+PANDEY" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=SHYAMJI+PANDEY" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=4A9EFF&center=true&vCenter=true&width=720&height=40&lines=%E2%96%B6+Built+Banking+Voice+AI+%E2%80%94+Funded+by+Fetch.ai;%E2%96%B6+4-agent+autonomous+pipelines+in+production;%E2%96%B6+Government-funded+CV+researcher+targeting+CVPR+%2F+ICCV;%E2%96%B6+2%2C000%2B+developers+across+20%2B+events+across+India" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=4A9EFF&center=true&vCenter=true&width=720&height=40&lines=%E2%96%B6+Built+Banking+Voice+AI+%E2%80%94+Funded+by+Fetch.ai;%E2%96%B6+4-agent+autonomous+pipelines+in+production;%E2%96%B6+Government-funded+CV+researcher+targeting+CVPR+%2F+ICCV;%E2%96%B6+2%2C000%2B+developers+across+20%2B+events+across+India" alt="Typing"/>
 
 <br/><br/>
 
@@ -102,14 +101,14 @@ currently_active:
 ║   ██████╔╝██║  ██║██║ ╚███║██║  ██╗     ╚████╔╝ ╚██████╔╝██║╚██████╗  ║
 ║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚═╝     ╚═══╝   ╚═════╝ ╚═╝ ╚═════╝  ║
 ║                                                                          ║
-║              A I   C A L L   E X E C U T I V E   P L A T F O R M       ║
-║                        F u n d e d   b y   F e t c h . a i              ║
+║            A I   C A L L   E X E C U T I V E   P L A T F O R M         ║
+║                      F u n d e d   b y   F e t c h . a i                ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-> ### 🏦 [banking-voice-ai](https://github.com/ShyamRV/banking-voice-ai) &nbsp;·&nbsp; Replacing human call executives with autonomous AI agents
+> ### 🏦 [banking-voice-ai](https://github.com/ShyamRV/banking-voice-ai) · Replacing human call executives with autonomous AI agents
 
 **Funded by Fetch.ai.** Enterprise-grade multi-agent platform for banking, healthcare, insurance, and telecom — autonomous, 24/7, 10+ Indian languages.
 
@@ -170,11 +169,10 @@ currently_active:
 │  ▸ Telecom · E-commerce         │
 │  ▸ Real Estate · Ed-Tech        │
 │                                 │
-│  COMPLIANCE STACK:              │
+│  COMPLIANCE:                    │
 │  ▸ RBI FREE-AI Framework        │
 │  ▸ TRAI + DPDP Act 2023         │
-│  ▸ AES-256 · TLS in transit     │
-│  ▸ India-only data residency    │
+│  ▸ AES-256 · TLS · India only   │
 │                                 │
 └─────────────────────────────────┘
 ```
@@ -183,22 +181,19 @@ currently_active:
 </tr>
 </table>
 
-`Fetch.ai uAgents` &nbsp;`ASI:ONE` &nbsp;`OpenAI Whisper` &nbsp;`Amazon Polly` &nbsp;`Twilio` &nbsp;`FastAPI` &nbsp;`Python`
+`Fetch.ai uAgents` `ASI:ONE` `OpenAI Whisper` `Amazon Polly` `Twilio` `FastAPI` `Python`
 
 ---
 
 ## `// PROJECTS`
 
 <details>
-<summary><strong>🎬 NexusC &nbsp;—&nbsp; Agentic Social Media Manager &nbsp;|&nbsp; Open Source &nbsp;·&nbsp; Feb – Jun 2025</strong></summary>
-
+<summary><strong>🎬 NexusC — Agentic Social Media Manager &nbsp;|&nbsp; Open Source · Feb – Jun 2025</strong></summary>
 <br/>
 
 > **Drop a `.mp4` + script into a folder. The agents handle everything else.**
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
   📁 uploads/input/my_video.mp4 + my_video.txt
        │
        ▼  every 5 minutes
@@ -208,65 +203,65 @@ currently_active:
   │ port 8000      │                    │  title · desc · tags│
   └───────┬────────┘                    └─────────────────────┘
           │
-          │  ──ThumbnailRequest──►  ┌──────────────────────────┐
-          │                         │  asi_thumbnail_agent     │  ☁ AGENTVERSE
-          │ ◄──ThumbnailResult───── │  ASI:ONE image API       │
-          │    (base64 1024×1024)   │  generates PNG           │
-          │                         └──────────────────────────┘
+          ├──ThumbnailRequest──►  ┌──────────────────────────┐
+          │                       │  asi_thumbnail_agent     │  ☁ AGENTVERSE
+          │ ◄──ThumbnailResult─── │  ASI:ONE image API       │
+          │    (base64 1024×1024) │  generates PNG           │
+          │                       └──────────────────────────┘
           │
-          │  ──LocalUploadRequest──►  ┌────────────────────────┐
-          └── ◄──UploadResult──────── │  youtube_agent         │  💻 LOCAL
-                                      │  YouTube Data API v3   │
-                                      └────────────────────────┘
+          ├──LocalUploadRequest──►  ┌──────────────────────────┐
+          │                         │  youtube_agent           │  💻 LOCAL
+          └── ◄──UploadResult────── │  YouTube Data API v3     │
+                                    └──────────────────────────┘
 
   RESULT: 30+ hours/week of creator work → ZERO manual steps
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-`Fetch.ai uAgents` `Agentverse` `ASI:ONE (asi1-mini + image API)` `YouTube Data API v3` `Python`
+- **Titles** — CTR psychology: curiosity gaps, power words, number hooks
+- **Descriptions** — Hook + SEO body + CTA + ranked hashtags
+- **Tags** — broad → specific → long-tail for maximum search coverage
+- **Thumbnails** — 1024×1024 AI PNG, auto-set on YouTube via API
+
+`Fetch.ai uAgents` `Agentverse` `ASI:ONE` `YouTube Data API v3` `Python`
 
 </details>
 
 <details>
-<summary><strong>🏥 Project SARA &nbsp;—&nbsp; Agentic Healthcare Triage (TENET Hackathon) &nbsp;·&nbsp; Jan 2025</strong></summary>
-
+<summary><strong>🏥 Project SARA — Agentic Healthcare Triage &nbsp;|&nbsp; TENET Hackathon · Jan 2025</strong></summary>
 <br/>
 
 > **No waiting room. No paperwork. No human in the loop.**
 
-- **Patient Agent ↔ Clinic Agent** via Fetch.ai Almanac P2P
-- LLM classifies **Critical** or **Routine** — instantly, 24/7
-- Auto-schedules appointments with zero admin overhead
+- **Patient Agent ↔ Clinic Agent** communicating P2P via Fetch.ai Almanac
+- LLM triage classifies **Critical** or **Routine** — instantly, 24/7
+- Auto-schedules appointments with zero administrative overhead
 
 `Fetch.ai uAgents` `ASI:ONE` `Agentverse`
 
 </details>
 
 <details>
-<summary><strong>🤖 NEO PRIME &nbsp;—&nbsp; Neural Robotic Intelligence System &nbsp;·&nbsp; Jun – Sep 2025</strong></summary>
-
+<summary><strong>🤖 NEO PRIME — Neural Robotic Intelligence System &nbsp;|&nbsp; Jun – Sep 2025</strong></summary>
 <br/>
 
 > **SLM brain. Sub-millimetre hands. 95% success rate.**
 
-- **0.5mm precision** · **95% task success** across 500+ cycles
-- YOLO detection + depth camera + force sensor fusion
-- Dynamic mid-grasp re-planning
+- **0.5mm precision** via SLM-driven adaptive trajectory planning
+- Real-time **YOLO** + depth camera + force sensor fusion
+- Dynamic mid-grasp re-planning · **95% success** across 500+ cycles
 
 `TensorFlow` `OpenCV` `YOLO` `ROS` `Raspberry Pi`
 
 </details>
 
 <details>
-<summary><strong>🧑‍💼 Humanoid Receptionist Robot &nbsp;—&nbsp; Live @ Amity University &nbsp;·&nbsp; Jan – Feb 2024</strong></summary>
-
+<summary><strong>🧑‍💼 Humanoid Receptionist Robot — Live @ Amity University &nbsp;|&nbsp; Jan – Feb 2024</strong></summary>
 <br/>
 
-> **Real visitors. Real queries. Zero handoffs.**
+> **Real visitors. Real queries. Zero handoffs to humans.**
 
-- **90% speech** · **98% facial detection** accuracy
-- Reduced workload **60%** · zero human handoff for standard queries
+- **90% speech recognition** · **98% facial detection** accuracy
+- GPT-powered dialogue · reduced workload **60%** · zero human handoff
 
 `PyTorch` `TensorFlow` `OpenCV` `GPT API` `Speech Processing`
 
@@ -278,8 +273,8 @@ currently_active:
 
 | | Project | Method | Status |
 |---|---|---|---|
-| 🛸 | **CV for UAVs** · 30+ FPS aerial detection · 25% perf gain · Aug 2024–Present | YOLO · ResNet · CNN | 🟢 **Govt. Funded** · CVPR/ICCV |
-| 🕸️ | **Graph Neural Networks** · Drug discovery · social graphs · Oct 2024–Present | GCN · GAT | 🟡 Active |
+| 🛸 | **CV for UAVs** · 30+ FPS aerial detection · 25% perf gain · Aug 2024 – Present | YOLO · ResNet · CNN | 🟢 Govt. Funded · CVPR/ICCV |
+| 🕸️ | **Graph Neural Networks** · Drug discovery · social graphs · Oct 2024 – Present | GCN · GAT | 🟡 Active |
 
 ---
 
@@ -305,6 +300,18 @@ currently_active:
   │  [2023.09] ── B.Tech AI/ML begins. Day 1.                           │
   │                                                                      │
   └──────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `// ACHIEVEMENTS`
+
+```
+  [★★]  1st Runner-up     →  Smart India Hackathon 2024  (Govt. of India)
+  [★★]  3rd Place         →  Hackmatrix National Hackathon, IIT Patna
+  [★★]  Top Contributor   →  GirlScript Summer of Code 2025  (of 5,000+)
+  [★★]  Live Deployed     →  Humanoid Receptionist Robot, Amity University
+  [★★]  Funded            →  Banking Voice AI → Fetch.ai
 ```
 
 ---
@@ -347,4 +354,10 @@ If you're building something that matters with AI — let's talk.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShyamRV&color=4A9EFF&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
+
+---
+
+<div align="center">
+<sub>Built agents. Shipped products. Funded by Fetch.ai. Currently building the next one.</sub>
 </div>
