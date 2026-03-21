@@ -300,6 +300,7 @@ currently_active:
   └──────────────────────────────────────────────────────────────────────┘
 ```
 
+[![Fetch.ai Innovation Lab Contributor - @ShyamRV](https://raw.githubusercontent.com/fetchai/innovation-lab-examples/main/.github/badges/contributor-badge.png)](https://github.com/fetchai/innovation-lab-examples/pulls?q=author%3AShyamRV+is%3Amerged)
 ---
 
 ## `// ACHIEVEMENTS`
