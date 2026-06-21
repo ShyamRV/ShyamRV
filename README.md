@@ -1,8 +1,18 @@
 <div align="center">
 
-<img src="assets/desk-scene.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:00D9FF,100:B967FF&height=120&section=header&text=SHYAMJI%20PANDEY&fontSize=48&fontColor=ffffff&animation=twinkling"/>
+
+<img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="100%" alt="late-night coding — pixel art loop"/>
 
 ## Hi 👋, I'm Shyamji
+
+<a href="https://github.com/ShyamRV">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Agentic+AI+Engineer+%40+Fetch.ai;Computer+Vision+%26+GNN+Researcher;BankVoiceAI+%E2%80%94+funded+by+Fetch.ai;Open+to+full-time+AI+Engineer+roles" alt="typing-svg" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44f7-9771-5da6b4a551c6.gif" width="400"/>
+
+<sub><b><a href="#live">Live</a> · <a href="#flagship">Flagship</a> · <a href="#lab">Recent Builds</a> · <a href="#research">Research</a> · <a href="#stats">Stats</a> · <a href="#connect">Connect</a></b></sub>
 
 </div>
 
@@ -10,13 +20,48 @@
 
 <div align="center">
 
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯  Agents don't replace engineers      @@
+@@   ❮(🤖‿🤖)❯   They replace busywork — I build both  @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_     .----------------------------.     @@
+@@    ( .   . )    | while(deployed < production)|     @@
+@@   / /     \ \   |   agent.deploy();           |     @@
+@@   \ |  ,  | /   '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|   Ship agents that take real work        @@
+@@     | |"| |   off humans' plates — 24/7.           @@
+@@     ( ) ( )                                         @@
+@@     |_| |_|                                         @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+**🤔 AGENT FACT OF THE DAY**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+agents+are+not+the+smartest+models+%E2%80%94+they+are+the+ones+that+reliably+finish+the+job.&author=Shyamji+Pandey"/>
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=0D1117&theme=tokyonight&qColor=00FF9C&aColor=00D9FF&borderColor=00D9FF&headerColor=B967FF)](https://github.com/ShyamRV/ShyamRV)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00D9FF,100:0D1117&height=3&section=header" width="100%"/>
+
+<a id="live"></a>
+## ⚡ Live Profile Feed
+
+<div align="center">
+
 <img src="assets/header.svg" width="100%"/>
 
-<a href="https://github.com/ShyamRV">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&height=36&lines=Computer+Vision+%26+GNN+Researcher;BankVoiceAI+%E2%80%94+funded+by+Fetch.ai;Open+to+full-time+Agentic+AI+%2F+AI+Engineer+roles" alt="typing-svg" />
-</a>
+<img src="https://raw.githubusercontent.com/ShyamRV/ShyamRV/main/github-metrics.svg" width="100%" alt="auto-updated github metrics"/>
 
-<sub><b><a href="#flagship">Flagship</a> · <a href="#lab">Recent Builds</a> · <a href="#research">Research</a> · <a href="#stats">Stats</a> · <a href="#connect">Connect</a></b></sub>
+<sub>Refreshes every 6 hours via GitHub Actions · inspired by <a href="https://github.com/trinib/trinib">trinib/trinib</a></sub>
 
 </div>
 
@@ -185,6 +230,8 @@ talks:
 <img src="https://raw.githubusercontent.com/ShyamRV/ShyamRV/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>Eats through real commit history · updates every 6 hours via GitHub Actions</sub>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamRV&bg_color=0D1117&color=00FF9C&line=00D9FF&point=B967FF&area=true&hide_border=true" width="100%"/>
 
 ## 🏆 Trophy Case
 

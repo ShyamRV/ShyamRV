@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+  <rect width="800" height="120" fill="#0D1117"/>
+  <text x="400" y="55" text-anchor="middle" fill="#00FF9C" font-family="monospace" font-size="20" font-weight="700">GitHub Metrics</text>
+  <text x="400" y="85" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="14">Generating after first Actions run...</text>
+</svg>
