@@ -7,7 +7,7 @@
 ## Hi 👋, I'm Shyamji
 
 <a href="https://github.com/ShyamRV">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Agentic+AI+Engineer+%40+Fetch.ai;Computer+Vision+%26+GNN+Researcher;BankVoiceAI+%E2%80%94+funded+by+Fetch.ai;Open+to+full-time+AI+Engineer+roles" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Agentic+AI+Engineer+%40+Fetch.ai;Computer+Vision+%26+GNN+Researcher;Open+to+full-time+AI+Engineer+roles" alt="typing-svg" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44f7-9771-5da6b4a551c6.gif" width="400"/>
