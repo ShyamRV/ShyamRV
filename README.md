@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:00D9FF,100:B967FF&height=100&section=header&text=SHYAMJI%20PANDEY&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 
-<img src="assets/archipics.gif?v=29x9" width="100%" alt="neon coding desk — pixel art"/>
+<img src="assets/archipics.gif?v=29x9-b2" width="100%" alt="neon coding desk — pixel art"/>
 
 ## Hi 👋, I'm Shyamji
 
