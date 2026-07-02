@@ -127,7 +127,7 @@ Built for Fetch.ai. An enterprise-grade multi-agent voice platform for banks, he
 
 | Real-World Impact | |
 |---|---|
-| *Built for** | Fetch.ai |
+| **Built for** | Fetch.ai |
 | **Modeled savings** | ~$230K/month vs a 500-executive call centre |
 | **Addressable market** | ₹64,000 Cr+ |
 | **Industries** | Banks · NBFCs · Healthcare · Insurance · Telecom · Real Estate · Ed-Tech |
