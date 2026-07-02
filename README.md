@@ -77,7 +77,7 @@ $ uptime
 > b.tech ai/ml · amity university bengaluru · graduating early (aug 2026)
 
 $ ps -ef | grep ACTIVE
-> [RUNNING]  bankvoice-ai          funded by fetch.ai · voice AI for banking & telecom
+> [RUNNING]  bankvoice-ai          built for fetch.ai · voice AI for banking & telecom
 > [RUNNING]  asi:one-community     community lead · 500+ developers onboarded
 > [RUNNING]  uav-cv-research       govt-funded · targeting cvpr / iccv 2026-27
 > [RUNNING]  gnn-research          biomedical knowledge graphs · targeting aaai 2027
@@ -121,13 +121,13 @@ commerce_and_auth:
 
 </div>
 
-Funded by Fetch.ai. An enterprise-grade multi-agent voice platform for banks, healthcare, insurance, and telecom — handling calls and chats autonomously, 24/7, across 10+ Indian languages.
+Built for Fetch.ai. An enterprise-grade multi-agent voice platform for banks, healthcare, insurance, and telecom — handling calls and chats autonomously, 24/7, across 10+ Indian languages.
 
 <div align="center">
 
 | Real-World Impact | |
 |---|---|
-| **Funded by** | Fetch.ai |
+| *Built for** | Fetch.ai |
 | **Modeled savings** | ~$230K/month vs a 500-executive call centre |
 | **Addressable market** | ₹64,000 Cr+ |
 | **Industries** | Banks · NBFCs · Healthcare · Insurance · Telecom · Real Estate · Ed-Tech |
