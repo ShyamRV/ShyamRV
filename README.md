@@ -7,12 +7,12 @@
 ## Hi 👋, I'm Shyamji
 
 <a href="https://github.com/ShyamRV">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Agentic+AI+Engineer+%40+Fetch.ai;Computer+Vision+%26+GNN+Researcher;Open+to+full-time+AI+Engineer+roles" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Agentic+AI+Engineer+%40+Fetch.ai;Computer+Vision+%26+GNN+Researcher;Building+CoinV+—+on-device+cognitive+OS;Open+to+full-time+AI+Engineer+roles" alt="typing-svg" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44f7-9771-5da6b4a551c6.gif" width="400"/>
 
-<sub><b><a href="#live">Live</a> · <a href="#flagship">Flagship</a> · <a href="#lab">Recent Builds</a> · <a href="#research">Research</a> · <a href="#stats">Stats</a> · <a href="#connect">Connect</a></b></sub>
+<sub><b><a href="#live">Live</a> · <a href="#coinv">CoinV</a> · <a href="#flagship">Flagship</a> · <a href="#lab">Recent Builds</a> · <a href="#research">Research</a> · <a href="#stats">Stats</a> · <a href="#connect">Connect</a></b></sub>
 
 </div>
 
@@ -77,6 +77,7 @@ $ uptime
 > b.tech ai/ml · amity university bengaluru · graduating early (aug 2026)
 
 $ ps -ef | grep ACTIVE
+> [RUNNING]  coinv                 founding product · on-device cognitive OS
 > [RUNNING]  bankvoice-ai          built for fetch.ai · voice AI for banking & telecom
 > [RUNNING]  asi:one-community     community lead · 500+ developers onboarded
 > [RUNNING]  uav-cv-research       govt-funded · targeting cvpr / iccv 2026-27
@@ -97,8 +98,13 @@ cv_and_graph_ml:
   - PyTorch · TensorFlow · YOLO (v5-v10) · ResNet · OpenCV
   - GCN · GAT · GraphSAGE · Node2Vec · PyG · DGL
 
+on_device_ai:
+  - CoinV · Jetpack Compose · Room · Gemini Embeddings
+  - SpeechRecognizer · MediaSession · on-device TTS
+  - Flutter / Dart rewrite in progress (Android + iOS)
+
 engineering:
-  - Python · TypeScript · FastAPI · Next.js · Node.js
+  - Python · Kotlin · TypeScript · FastAPI · Next.js · Node.js
   - PostgreSQL · Docker · Kubernetes
 
 cloud_and_infra:
@@ -108,7 +114,36 @@ commerce_and_auth:
   - Stripe · UCP · OAuth2 · Twilio
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00D9FF,100:0D1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:B967FF,100:0D1117&height=3&section=header" width="100%"/>
+
+<a id="coinv"></a>
+## 🪙 Founding Product — CoinV
+
+<div align="center">
+
+![CoinV](https://img.shields.io/badge/COINV-ON--DEVICE%20COGNITIVE%20OS-B967FF?style=for-the-badge&labelColor=0D1117)
+
+**[coinv-android](https://github.com/ShyamRV/coinv-android)** — a local-first second brain that lives in your headset, not someone else's cloud
+
+</div>
+
+Open-source cognitive OS for Android. Voice in the earphone, semantic memory on the device, and decision interventions so personal context never leaves the phone. Flutter rewrite in progress for Android + iOS.
+
+<div align="center">
+
+| What it does | |
+|---|---|
+| **Product** | Founding company project · Apache-2.0 direction · local-first |
+| **Voice** | Always-on Listening / Monitoring · headset-tap MediaSession controls · on-device TTS |
+| **Memory** | Room + Gemini embeddings + cosine retrieval — no cloud-held second brain |
+| **Interventions** | Devil's-advocate · bias spotting · promise tracking · commitment guard · decision follow-ups |
+| **LLM** | ASI:ONE for coaching and decision analysis · BYOK for embeddings |
+
+</div>
+
+`Jetpack Compose` · `Hilt` · `Room` · `ASI:ONE` · `Gemini Embeddings` · `Flutter / Dart`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF9C,100:0D1117&height=3&section=header" width="100%"/>
 
 <a id="flagship"></a>
 ## 🏦 Flagship Project
@@ -246,7 +281,7 @@ talks:
 
 ### `// toolbelt`
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,nextjs,typescript,nodejs,docker,kubernetes,postgres,aws,gcp,git,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flutter,dart,fastapi,nextjs,typescript,nodejs,docker,kubernetes,postgres,aws,gcp,git,linux&theme=dark"/>
 
 </div>
 
