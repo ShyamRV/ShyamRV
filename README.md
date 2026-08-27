@@ -123,7 +123,7 @@ commerce_and_auth:
 
 ![CoinV](https://img.shields.io/badge/COINV-ON--DEVICE%20COGNITIVE%20OS-B967FF?style=for-the-badge&labelColor=0D1117)
 
-**[coinv-android](https://github.com/ShyamRV/coinv-android)** — a local-first second brain that lives in your headset, not someone else's cloud
+**[coinv-intelligence](https://github.com/ShyamRV/coinv-android)** — a local-first second brain that lives in your headset, not someone else's cloud
 
 </div>
 
